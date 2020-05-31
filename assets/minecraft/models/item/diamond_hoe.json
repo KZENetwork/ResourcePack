@@ -43,6 +43,19 @@
 		{ "predicate": {"custom_model_data":1037}, "model": "item/melee/karambit"},
 		{ "predicate": {"custom_model_data":1038}, "model": "item/melee/tomahawk"},
 		{ "predicate": {"custom_model_data":1039}, "model": "item/gui/cosmo"},
-		{ "predicate": {"custom_model_data":1040}, "model": "item/melee/crowbar"}
+		{ "predicate": {"custom_model_data":1040}, "model": "item/melee/crowbar"},
+		{ "predicate": {"custom_model_data":1060}, "model": "item/shotgun/aa12"},
+		{ "predicate": {"custom_model_data":1061}, "model": "item/smg/bizon"},
+		{ "predicate": {"custom_model_data":1062}, "model": "item/shotgun/conderfield"},
+		{ "predicate": {"custom_model_data":1063}, "model": "item/sub/derringer"},
+		{ "predicate": {"custom_model_data":1064}, "model": "item/assault/hk417"},
+		{ "predicate": {"custom_model_data":1065}, "model": "item/sub/judge"},
+		{ "predicate": {"custom_model_data":1066}, "model": "item/smg/kriss"},
+		{ "predicate": {"custom_model_data":1067}, "model": "item/assault/m16a2"},
+		{ "predicate": {"custom_model_data":1068}, "model": "item/sniper/m99"},
+		{ "predicate": {"custom_model_data":1069}, "model": "item/sniper/wa2000"},
+		{ "predicate": {"custom_model_data":1070}, "model": "item/melee/gsurvivalknife"},
+		{ "predicate": {"custom_model_data":1071}, "model": "item/melee/gkarambit"},
+		{ "predicate": {"custom_model_data":1072}, "model": "item/melee/gtomahawk"}
 	]
 }
