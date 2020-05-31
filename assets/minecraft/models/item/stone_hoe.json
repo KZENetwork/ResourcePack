@@ -1,0 +1,26 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_hoe"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data":1001}, "model": "item/gui/activity"},
+		{ "predicate": {"custom_model_data":1002}, "model": "item/gui/arrow_down"},
+		{ "predicate": {"custom_model_data":1003}, "model": "item/gui/arrow_up"},
+		{ "predicate": {"custom_model_data":1004}, "model": "item/gui/friend"},
+		{ "predicate": {"custom_model_data":1005}, "model": "item/gui/home"},
+		{ "predicate": {"custom_model_data":1006}, "model": "item/gui/play1"},
+		{ "predicate": {"custom_model_data":1007}, "model": "item/gui/play2"},
+		{ "predicate": {"custom_model_data":1008}, "model": "item/gui/play3"},
+		{ "predicate": {"custom_model_data":1009}, "model": "item/gui/assault"},
+		{ "predicate": {"custom_model_data":1010}, "model": "item/gui/submachine"},
+		{ "predicate": {"custom_model_data":1011}, "model": "item/gui/shotgun"},
+		{ "predicate": {"custom_model_data":1012}, "model": "item/gui/sniper"},
+		{ "predicate": {"custom_model_data":1013}, "model": "item/gui/weapons_change"},
+		{ "predicate": {"custom_model_data":1014}, "model": "item/gui/play"},
+		{ "predicate": {"custom_model_data":1015}, "model": "item/gui/kyokabody"},
+		{ "predicate": {"custom_model_data":1016}, "model": "item/gui/club_head"},
+		{ "predicate": {"custom_model_data":1017}, "model": "item/gui/subweapon"},
+		{ "predicate": {"custom_model_data":1018}, "model": "item/gui/skill"}
+	]
+}
